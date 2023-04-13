@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  padding: 3rem;
+  background-color: white;
+  border-top:4px solid #ccc;
+}
+.footer a {
+  text-decoration: none;
+}
+.footer ul{
+    list-style-type:none;
+    display: flex;
+}
